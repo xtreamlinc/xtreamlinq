@@ -15,14 +15,14 @@ const TermsAndConditions = () => {
             <div>
               <h2 className="text-2xl font-bold mb-4">1. Agreement to Terms</h2>
               <p className="text-muted-foreground leading-relaxed">
-                By subscribing to Xtreamlinq ISP services, you agree to be bound by these Terms and Conditions. If you disagree with any part of these terms, you may not access our services. These terms apply to all visitors, users, and others who access or use the service.
+                By subscribing to Xtreamlink ISP services, you agree to be bound by these Terms and Conditions. If you disagree with any part of these terms, you may not access our services. These terms apply to all visitors, users, and others who access or use the service.
               </p>
             </div>
 
             <div>
               <h2 className="text-2xl font-bold mb-4">2. Service Description</h2>
               <p className="text-muted-foreground leading-relaxed mb-4">
-                Xtreamlinq provides internet connectivity services at various speed tiers. We strive to deliver reliable, high-speed internet access, but service quality may vary based on:
+                Xtreamlink provides internet connectivity services at various speed tiers. We strive to deliver reliable, high-speed internet access, but service quality may vary based on:
               </p>
               <ul className="list-disc list-inside space-y-2 text-muted-foreground ml-4">
                 <li>Location and infrastructure availability</li>
@@ -115,8 +115,8 @@ const TermsAndConditions = () => {
               <p className="text-muted-foreground leading-relaxed mb-4">
                 <strong>By Customer:</strong> You may cancel service at any time with 30 days notice. You are responsible for all charges through the end of the notice period.
               </p>
-                  <p className="text-muted-foreground leading-relaxed mb-4">
-                    <strong>By Xtreamlinq:</strong> We may suspend or terminate service for:
+              <p className="text-muted-foreground leading-relaxed mb-4">
+                <strong>By Xtreamlink:</strong> We may suspend or terminate service for:
               </p>
               <ul className="list-disc list-inside space-y-2 text-muted-foreground ml-4">
                 <li>Non-payment of fees</li>
@@ -130,16 +130,16 @@ const TermsAndConditions = () => {
             <div>
               <h2 className="text-2xl font-bold mb-4">9. Limitation of Liability</h2>
               <p className="text-muted-foreground leading-relaxed">
-                To the maximum extent permitted by law, Xtreamlinq shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including lost profits, data loss, or business interruption arising from the use or inability to use our services. Our total liability shall not exceed the amount you paid for services in the three months preceding the claim.
+                To the maximum extent permitted by law, Xtreamlink shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including lost profits, data loss, or business interruption arising from the use or inability to use our services. Our total liability shall not exceed the amount you paid for services in the three months preceding the claim.
               </p>
-                               By subscribing to Xtreamlinq ISP services, you agree to be bound by these Terms and Conditions. If you disagree with any part of these terms, you may not access our services. These terms apply to all visitors, users, and others who access or use the service.
+            </div>
 
             <div>
               <h2 className="text-2xl font-bold mb-4">10. Privacy and Data Protection</h2>
               <p className="text-muted-foreground leading-relaxed">
                 We collect and process your personal information as described in our Privacy Policy. By using our services, you consent to such collection and processing. We implement reasonable security measures but cannot guarantee absolute security of your data transmitted over our network.
               </p>
-                               Xtreamlinq provides internet connectivity services at various speed tiers. We strive to deliver reliable, high-speed internet access, but service quality may vary based on:
+            </div>
 
             <div>
               <h2 className="text-2xl font-bold mb-4">11. Network Management</h2>
@@ -167,10 +167,10 @@ const TermsAndConditions = () => {
               <p className="text-muted-foreground leading-relaxed">
                 For questions about these Terms and Conditions, contact us:
               </p>
-                               To the maximum extent permitted by law, Xtreamlinq shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including lost profits, data loss, or business interruption arising from the use or inability to use our services. Our total liability shall not exceed the amount you paid for services in the three months preceding the claim.
-                    <li>
-                      <span className="font-semibold text-white">Email:</span> <a href="mailto:legal@xtreamlinq.com" className="text-primary hover:underline">legal@xtreamlinq.com</a>
-                    </li>
+              <ul className="list-none space-y-2 text-muted-foreground mt-4">
+                <li>
+                  <span className="font-semibold text-white">Email:</span> <a href="mailto:legal@xtreamlink.com" className="text-primary hover:underline">legal@xtreamlink.com</a>
+                </li>
                 <li>
                   <span className="font-semibold text-white">Phone:</span> <a href="tel:8889283252" className="text-primary hover:underline">(888) 928-3252</a>
                 </li>
