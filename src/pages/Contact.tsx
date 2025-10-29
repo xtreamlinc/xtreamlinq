@@ -90,7 +90,7 @@ const Contact = () => {
                 <p className="text-primary-foreground/90 mb-4 animate-fade-in" style={{animationDelay: '0.95s'}}>
                   Need immediate assistance? Our technical support team is available around the clock.
                 </p>
-                <a href="tel:8889283252" tabIndex={0} aria-label="Call Xtream Link">
+                <a href="tel:8889283252" tabIndex={0} aria-label="Call Xtreamlinq">
                   <Button 
                     variant="outline"
                     className="bg-background text-foreground hover:bg-background/90 animate-zoom-in"

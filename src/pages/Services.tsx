@@ -112,7 +112,7 @@ const Services = () => {
                     </li>
                   ))}
                 </ul>
-                <a href="tel:8889283252" tabIndex={0} aria-label="Call Xtream Link">
+                <a href="tel:8889283252" tabIndex={0} aria-label="Call Xtreamlinq">
                   <Button variant="ghost" className="ml-0 sm:ml-12 md:ml-16 text-primary hover:text-primary animate-zoom-in" style={{animationDelay: `${0.6 + index * 0.15}s`}}>
                     Learn More <ArrowRight className="ml-2 w-4 h-4" />
                   </Button>
@@ -213,7 +213,7 @@ const Services = () => {
             <p className="text-black/80 max-w-2xl mx-auto mb-6 md:mb-8 text-base sm:text-lg animate-fade-in" style={{animationDelay: '2.8s'}}>
               Our team can design a tailored fiber internet solution to meet your specific requirements. Let's discuss how we can help power your connectivity needs.
             </p>
-            <a href="tel:8889283252" tabIndex={0} aria-label="Call Xtream Link">
+            <a href="tel:8889283252" tabIndex={0} aria-label="Call Xtreamlinq">
               <Button 
                 className="bg-black hover:bg-black/90 text-primary font-bold animate-zoom-in"
                 size="lg"

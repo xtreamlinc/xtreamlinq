@@ -26,7 +26,7 @@ const Navbar = () => {
             <div className="w-8 h-8 bg-primary rounded-full flex items-center justify-center">
               <span className="text-black text-xs font-bold">X</span>
             </div>
-            <span className="text-white text-lg font-bold">Xtream Link</span>
+            <span className="text-white text-lg font-bold">Xtreamlinq</span>
           </Link>
 
           {/* Desktop Nav */}

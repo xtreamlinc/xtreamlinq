@@ -15,7 +15,8 @@ const RefundPolicy = () => {
             <div>
               <h2 className="text-2xl font-bold mb-4">1. 30-Day Money-Back Guarantee</h2>
               <p className="text-muted-foreground leading-relaxed mb-4">
-                We stand behind the quality of our service. New residential customers are covered by our 30-Day Money-Back Guarantee. If you're not satisfied with Xtreamlink internet service for any reason within the first 30 days, you may cancel and receive a full refund of:
+                We stand behind the quality of our service. New residential customers are covered by our 30-Day Money-Back Guarantee. If you're not satisfied with Xtreamlinq internet service for any reason within the first 30 days, you may cancel and receive a full refund of:
+                  We stand behind the quality of our service. New residential customers are covered by our 30-Day Money-Back Guarantee. If you're not satisfied with Xtreamlinq internet service for any reason within the first 30 days, you may cancel and receive a full refund of:
               </p>
               <ul className="list-disc list-inside space-y-2 text-muted-foreground ml-4">
                 <li>Monthly service fees paid</li>
@@ -34,7 +35,8 @@ const RefundPolicy = () => {
               </p>
               <ul className="list-disc list-inside space-y-2 text-muted-foreground ml-4">
                 <li>New residential customers only</li>
-                <li>First-time Xtreamlink subscribers at the service address</li>
+                <li>First-time Xtreamlinq subscribers at the service address</li>
+                  <li>First-time Xtreamlinq subscribers at the service address</li>
                 <li>Standard installation and service packages</li>
               </ul>
               <p className="text-muted-foreground leading-relaxed mt-4 mb-4">
@@ -55,7 +57,8 @@ const RefundPolicy = () => {
                 To request a refund under our money-back guarantee:
               </p>
               <ul className="list-disc list-inside space-y-2 text-muted-foreground ml-4">
-                <li>Contact customer service at (888) 928-3252 or support@xtreamlink.com</li>
+                <li>Contact customer service at (888) 928-3252 or support@xtreamlinq.com</li>
+                  <li>Contact customer service at (888) 928-3252 or support@xtreamlinq.com</li>
                 <li>Request cancellation and refund within 30 days of installation</li>
                 <li>Return all equipment within 14 days of cancellation notice</li>
                 <li>Provide your account number and contact information</li>
@@ -68,11 +71,13 @@ const RefundPolicy = () => {
             <div>
               <h2 className="text-2xl font-bold mb-4">4. Equipment Return Requirements</h2>
               <p className="text-muted-foreground leading-relaxed mb-4">
-                All Xtreamlink-provided equipment must be returned to qualify for a full refund:
+                All Xtreamlinq-provided equipment must be returned to qualify for a full refund:
+                  All Xtreamlinq-provided equipment must be returned to qualify for a full refund:
               </p>
               <ul className="list-disc list-inside space-y-2 text-muted-foreground ml-4">
                 <li>Modem/router and power adapter</li>
-                <li>Ethernet cables provided by Xtreamlink</li>
+                <li>Ethernet cables provided by Xtreamlinq</li>
+                  <li>Ethernet cables provided by Xtreamlinq</li>
                 <li>Any other equipment provided during installation</li>
               </ul>
               <p className="text-muted-foreground leading-relaxed mt-4 mb-4">
@@ -176,7 +181,8 @@ const RefundPolicy = () => {
               </p>
               <ul className="list-none space-y-2 text-muted-foreground mt-4">
                 <li>
-                  <span className="font-semibold text-white">Email:</span> <a href="mailto:billing@xtreamlink.com" className="text-primary hover:underline">billing@xtreamlink.com</a>
+                  <span className="font-semibold text-white">Email:</span> <a href="mailto:billing@xtreamlinq.com" className="text-primary hover:underline">billing@xtreamlinq.com</a>
+                    <span className="font-semibold text-white">Email:</span> <a href="mailto:billing@xtreamlinq.com" className="text-primary hover:underline">billing@xtreamlinq.com</a>
                 </li>
                 <li>
                   <span className="font-semibold text-white">Phone:</span> <a href="tel:8889283252" className="text-primary hover:underline">(888) 928-3252</a>

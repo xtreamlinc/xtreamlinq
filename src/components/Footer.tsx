@@ -11,7 +11,7 @@ const Footer = () => {
               <div className="w-8 h-8 bg-primary rounded-full flex items-center justify-center">
                 <span className="text-black text-xs font-bold">X</span>
               </div>
-              <span className="text-2xl font-bold text-white">Xtream Link</span>
+              <span className="text-2xl font-bold text-white">Xtreamlinq</span>
             </Link>
             <p className="text-gray-400 text-sm">
               Connecting communities with ultra-fast, reliable internet service.
@@ -49,7 +49,7 @@ const Footer = () => {
         </div>
         
         <div className="border-t border-gray-800 pt-8 text-center text-gray-400 text-sm">
-          <p>&copy; 2025 Xtream Link ISP. All rights reserved.</p>
+          <p>&copy; 2025 Xtreamlinq ISP. All rights reserved.</p>
         </div>
       </div>
     </footer>

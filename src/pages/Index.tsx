@@ -49,7 +49,7 @@ const Index = () => {
               <div className="relative animate-bounce-in">
                 <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-8xl font-black leading-none">
                   <span className="block text-primary">
-                    XTREAMLINK
+                    XTREAMLINQ
                   </span>
                   <span className="block text-white mt-2">
                     SPEED
@@ -70,7 +70,7 @@ const Index = () => {
               
               {/* Description */}
               <p className="text-base sm:text-lg md:text-xl text-white leading-relaxed max-w-xl">
-                Experience the future of internet with <span className="text-primary font-semibold">Xtream Link</span>.<br />
+                Experience the future of internet with <span className="text-primary font-semibold">Xtreamlinq</span>.<br />
                 Our revolutionary fiber-optic network delivers lightning-fast speeds that power your streaming, gaming, and productivity like never before.<br />
                 <span className="inline-block mt-2 font-bold text-primary bg-black/30 px-2 py-1 rounded-lg">
                   <a href="tel:8889283252" className="hover:underline">(888) 928-3252</a>
@@ -80,13 +80,13 @@ const Index = () => {
               
               {/* CTA Buttons */}
               <div className="flex flex-col sm:flex-row gap-4 pt-4 w-full max-w-xs sm:max-w-none">
-                <a href="tel:8889283252" tabIndex={0} aria-label="Call Xtream Link">
+                <a href="tel:8889283252" tabIndex={0} aria-label="Call Xtreamlinq">
                   <Button className="bg-primary hover:bg-primary/90 text-black px-8 py-4 text-lg font-bold rounded-xl shadow-lg transition-all duration-300 transform hover:scale-105 group">
                     Start Streaming Now
                     <ArrowRight className="ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform" />
                   </Button>
                 </a>
-                <a href="tel:8889283252" tabIndex={0} aria-label="Call Xtream Link">
+                <a href="tel:8889283252" tabIndex={0} aria-label="Call Xtreamlinq">
                   <Button variant="outline" className="px-8 py-4 text-lg font-semibold rounded-xl border-2 border-gray-700 text-white hover:bg-gray-800 transition-all duration-300">
                     Check Availability
                   </Button>
@@ -427,7 +427,7 @@ const Index = () => {
                 </div>
               </div>
 
-              <a href="tel:8889283252" tabIndex={0} aria-label="Call Xtream Link">
+                <a href="tel:8889283252" tabIndex={0} aria-label="Call Xtreamlinq">
                 <Button className="mt-6 md:mt-8 bg-primary hover:bg-primary/90 text-black font-bold px-5 py-2.5 md:px-6 md:py-3 text-sm md:text-base">
                   Check Your Area
                 </Button>
@@ -537,7 +537,7 @@ const Index = () => {
                   <span className="text-gray-300 text-sm md:text-base">24/7 Support</span>
                 </li>
               </ul>
-              <a href="tel:8889283252" tabIndex={0} aria-label="Call Xtream Link">
+              <a href="tel:8889283252" tabIndex={0} aria-label="Call Xtreamlinq">
                 <Button variant="outline" className="w-full border-gray-700 text-white hover:bg-gray-800 text-sm md:text-base">
                   Learn More
                 </Button>
@@ -575,7 +575,7 @@ const Index = () => {
                   <span className="text-black font-medium text-sm md:text-base">Free Router Upgrade</span>
                 </li>
               </ul>
-              <a href="tel:8889283252" tabIndex={0} aria-label="Call Xtream Link">
+              <a href="tel:8889283252" tabIndex={0} aria-label="Call Xtreamlinq">
                 <Button className="w-full bg-black hover:bg-black/90 text-primary font-bold text-sm md:text-base">
                   Get Started
                 </Button>
@@ -614,7 +614,7 @@ const Index = () => {
                   <span className="text-gray-300 text-sm md:text-base">Dedicated Line</span>
                 </li>
               </ul>
-              <a href="tel:8889283252" tabIndex={0} aria-label="Call Xtream Link">
+              <a href="tel:8889283252" tabIndex={0} aria-label="Call Xtreamlinq">
                 <Button variant="outline" className="w-full border-gray-700 text-white hover:bg-gray-800 text-sm md:text-base">
                   Learn More
                 </Button>
@@ -663,7 +663,7 @@ const Index = () => {
                     </div>
                   </div>
                   <p className="text-gray-300 leading-relaxed text-sm md:text-base">
-                    "Switched to Xtream Link 6 months ago and haven't looked back. The speeds are incredible and customer service is top-notch! I can stream 4K on multiple devices without any buffering."
+                    "Switched to Xtreamlinq 6 months ago and haven't looked back. The speeds are incredible and customer service is top-notch! I can stream 4K on multiple devices without any buffering."
                   </p>
                 </div>
               </div>
@@ -688,7 +688,7 @@ const Index = () => {
                     </div>
                   </div>
                   <p className="text-gray-300 leading-relaxed text-sm md:text-base">
-                    "As a business owner, reliable internet is crucial. Xtream Link delivers consistently with zero downtime. Highly recommended! Their dedicated support has been invaluable."
+                    "As a business owner, reliable internet is crucial. Xtreamlinq delivers consistently with zero downtime. Highly recommended! Their dedicated support has been invaluable."
                   </p>
                 </div>
               </div>
@@ -738,7 +738,7 @@ const Index = () => {
                     </div>
                   </div>
                   <p className="text-gray-300 leading-relaxed text-sm md:text-base">
-                    "Working from home requires a stable connection. Xtream Link has never let me down during important video calls. The upload speeds are fantastic for sharing large files with clients."
+                    "Working from home requires a stable connection. Xtreamlinq has never let me down during important video calls. The upload speeds are fantastic for sharing large files with clients."
                   </p>
                 </div>
               </div>
@@ -1057,9 +1057,9 @@ const Index = () => {
         <div className="container mx-auto text-center relative z-10 px-4">
           <h2 className="text-2xl md:text-3xl lg:text-4xl font-bold text-white mb-4 md:mb-6">Ready to Experience Blazing Fast Internet?</h2>
           <p className="text-base md:text-lg lg:text-xl text-gray-400 mb-6 md:mb-8 max-w-2xl mx-auto">
-            Join thousands of satisfied customers who have upgraded to Xtream Link. Get started today with our special promotional rates.
+            Join thousands of satisfied customers who have upgraded to Xtreamlinq. Get started today with our special promotional rates.
           </p>
-          <a href="tel:8889283252" tabIndex={0} aria-label="Call Xtream Link">
+          <a href="tel:8889283252" tabIndex={0} aria-label="Call Xtreamlinq">
             <Button 
               size="lg"
               className="bg-primary hover:bg-primary/90 text-black font-bold px-6 md:px-8 py-3 md:py-4 text-base md:text-lg rounded-xl shadow-lg transition-all duration-300 transform hover:scale-105"

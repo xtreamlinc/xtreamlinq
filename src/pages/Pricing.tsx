@@ -137,7 +137,7 @@ const Pricing = () => {
                       </li>
                     ))}
                   </ul>
-                  <a href="tel:8889283252" tabIndex={0} aria-label="Call Xtream Link" className="block mt-2">
+                  <a href="tel:8889283252" tabIndex={0} aria-label="Call Xtreamlinq" className="block mt-2">
                     <Button 
                       className={plan.popular ? "w-full bg-primary hover:bg-primary/90 text-black font-bold animate-zoom-in" : "w-full border-gray-700 animate-zoom-in"}
                       variant={plan.popular ? "default" : "outline"}
@@ -182,7 +182,7 @@ const Pricing = () => {
                       </li>
                     ))}
                   </ul>
-                  <a href="tel:8889283252" tabIndex={0} aria-label="Call Xtream Link" className="block mt-2">
+                  <a href="tel:8889283252" tabIndex={0} aria-label="Call Xtreamlinq" className="block mt-2">
                     <Button variant="outline" className="w-full border-gray-700 animate-zoom-in" style={{animationDelay: `${1.25 + index * 0.15}s`}}>
                       Contact Sales
                     </Button>

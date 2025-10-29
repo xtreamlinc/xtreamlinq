@@ -15,7 +15,7 @@ const PrivacyPolicy = () => {
             <div>
               <h2 className="text-2xl font-bold mb-4">1. Introduction</h2>
               <p className="text-muted-foreground leading-relaxed">
-                Xtreamlink ISP ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our internet services and visit our website.
+                Xtreamlinq ISP ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our internet services and visit our website.
               </p>
             </div>
 
@@ -129,7 +129,7 @@ const PrivacyPolicy = () => {
               </p>
               <ul className="list-none space-y-2 text-muted-foreground mt-4">
                 <li>
-                  <span className="font-semibold text-white">Email:</span> <a href="mailto:privacy@xtreamlink.com" className="text-primary hover:underline">privacy@xtreamlink.com</a>
+                  <span className="font-semibold text-white">Email:</span> <a href="mailto:privacy@xtreamlinq.com" className="text-primary hover:underline">privacy@xtreamlinq.com</a>
                 </li>
                 <li>
                   <span className="font-semibold text-white">Phone:</span> <a href="tel:8889283252" className="text-primary hover:underline">(888) 928-3252</a>

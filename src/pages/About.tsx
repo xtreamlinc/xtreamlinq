@@ -14,7 +14,7 @@ const About = () => {
             <span className="text-primary text-sm font-bold tracking-wide animate-fade-in" style={{animationDelay: '0.05s'}}>ABOUT US</span>
             <h1 className="mt-4 mb-6 text-3xl sm:text-4xl md:text-5xl font-bold text-foreground animate-slide-up" style={{animationDelay: '0.15s'}}>Building the Future of <span className="text-primary">Connectivity</span></h1>
             <p className="text-base sm:text-lg text-muted-foreground animate-fade-in" style={{animationDelay: '0.25s'}}>
-              For over a decade, Xtream Link has been at the forefront of bringing high-speed fiber internet to communities across the nation.
+              For over a decade, Xtreamlinq has been at the forefront of bringing high-speed fiber internet to communities across the nation.
             </p>
           </div>
 
@@ -22,7 +22,7 @@ const About = () => {
             <div className="animate-slide-left" style={{animationDelay: '0.35s', animationFillMode: 'both'}}>
               <h2 className="mb-6 text-3xl font-bold text-foreground animate-fade-in" style={{animationDelay: '0.4s'}}>Our <span className="text-primary">Story</span></h2>
               <p className="text-muted-foreground mb-4 animate-fade-in" style={{animationDelay: '0.45s'}}>
-                Founded in 2014, Xtream Link began with a simple mission: to provide reliable, lightning-fast fiber internet to underserved communities. What started as a small local operation has grown into a regional powerhouse, serving over 2,000 customers across multiple cities.
+                Founded in 2014, Xtreamlinq began with a simple mission: to provide reliable, lightning-fast fiber internet to underserved communities. What started as a small local operation has grown into a regional powerhouse, serving over 2,000 customers across multiple cities.
               </p>
               <p className="text-muted-foreground mb-4 animate-fade-in" style={{animationDelay: '0.55s'}}>
                 We believe that access to high-speed internet is no longer a luxury—it's a necessity. From remote work and online education to streaming entertainment and smart home technology, our fiber infrastructure supports the digital lifestyle of modern families and businesses.
@@ -174,7 +174,7 @@ const About = () => {
           </div>
 
           <div className="bg-primary rounded-2xl md:rounded-3xl p-6 md:p-12 text-center mt-8 animate-fade-in" style={{animationDelay: '4.3s'}}>
-            <h2 className="text-black mb-4 text-2xl sm:text-3xl md:text-4xl font-bold animate-slide-up" style={{animationDelay: '4.35s'}}>Why Choose Xtream Link?</h2>
+            <h2 className="text-black mb-4 text-2xl sm:text-3xl md:text-4xl font-bold animate-slide-up" style={{animationDelay: '4.35s'}}>Why Choose Xtreamlinq?</h2>
             <p className="text-black/80 max-w-3xl mx-auto text-base sm:text-lg mb-6 md:mb-8 animate-fade-in" style={{animationDelay: '4.4s'}}>
               We're not just another ISP—we're your partner in staying connected. With locally-based support teams, cutting-edge fiber-optic technology, and competitive pricing, we make it easy to get the internet service you deserve.
             </p>

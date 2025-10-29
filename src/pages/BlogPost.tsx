@@ -16,7 +16,7 @@ const BlogPost = () => {
         <Navbar />
         <div className="container mx-auto px-6 pt-32 pb-20 text-center">
           <h1 className="mb-6">Blog Post Not Found</h1>
-          <a href="tel:8889283252" tabIndex={0} aria-label="Call Xtream Link">
+          <a href="tel:8889283252" tabIndex={0} aria-label="Call Xtreamlinq">
             <Button>Return to Blog</Button>
           </a>
         </div>
